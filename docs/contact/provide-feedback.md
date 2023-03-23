@@ -5,12 +5,13 @@ sidebar_position: 2
 
 # Provide feedback
 
-We would love to hear your feedback after you have experimented with Linea. Please make a post on our community page [here](https://community.linea.build/c/feedback).
+We would love to hear your feedback after you have experimented with Linea. Please make a post on our community page [here](https://community.zkevm.consensys.net/c/feedback).
 
 Otherwise, you can also fill out [**this form**](https://forms.gle/qR5SxqitPnQKFQmm7) to let us know about your experience.
 
 :::note
 
+Please only complete this form once you have [set up your wallet](../use-linea/set-up-your-wallet.md) and have tested the network.
 Please only complete this form once you have [set up your wallet](../use-linea/set-up-your-wallet.md) and have tested the network.
 
 :::
